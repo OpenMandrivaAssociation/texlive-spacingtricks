@@ -3,7 +3,7 @@ Version:	69048
 Release:	1
 Summary:	Dealing with some spacing issues
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/spacingtricks
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/spacingtricks
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/spacingtricks.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/spacingtricks.doc.r%{version}.tar.xz
