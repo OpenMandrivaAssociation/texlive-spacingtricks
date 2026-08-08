@@ -1,9 +1,9 @@
 %global tl_name spacingtricks
-%global tl_revision 69048
+%global tl_revision 79865
 
 Name:		texlive-%{tl_name}
 Epoch:		1
-Version:	1.8
+Version:	1.9
 Release:	%{tl_revision}.1
 Summary:	Addressing various spacing issues
 Group:		Publishing
